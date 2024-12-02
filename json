@@ -1,0 +1,19 @@
+{
+    "users":[
+{
+    "userName":"john",
+    "age":35
+},
+{
+    "userName":"adam",
+    "age":25
+},
+{
+    "userName":"sarah",
+    "age":20
+}
+
+    ],
+    "courses":[
+{"courseName":"it"},
+{"courseName":"cooking"},
